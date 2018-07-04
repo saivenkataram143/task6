@@ -1,0 +1,24 @@
+{
+  "profiles":[
+    {
+    "name":"Samba",
+    "label":"DBA",
+    "company":"Infosys"
+  },
+  {
+  "name":"Sai",
+  "label":"designer",
+  "company":"Infosys"
+},
+{
+"name":"harsha",
+"label":"web designer",
+"company":"Infosys"
+},
+{
+"name":"Ravi teja",
+"label":"coder",
+"company":"Infosys"
+}
+  ]
+}
